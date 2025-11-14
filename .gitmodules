@@ -5,3 +5,6 @@
 [submodule "GALAHAD"]
 	path = GALAHAD
 	url = https://github.com/cran/GALAHAD
+[submodule "PSRICalc"]
+	path = PSRICalc
+	url = https://github.com/cran/PSRICalc
