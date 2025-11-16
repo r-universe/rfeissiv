@@ -7,4 +7,4 @@
 	url = https://github.com/cran/GALAHAD
 [submodule "PSRICalc"]
 	path = PSRICalc
-	url = https://github.com/cran/PSRICalc
+	url = https://github.com/rfeissiv/psricalc
