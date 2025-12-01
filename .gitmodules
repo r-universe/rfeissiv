@@ -10,4 +10,4 @@
 	url = https://github.com/rfeissiv/psricalc
 [submodule "SQUIRE"]
 	path = SQUIRE
-	url = https://github.com/cran/SQUIRE
+	url = https://github.com/rfeissiv/squire
