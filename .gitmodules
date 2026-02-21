@@ -8,6 +8,9 @@
 [submodule "PSRICalc"]
 	path = PSRICalc
 	url = https://github.com/rfeissiv/psricalc
+[submodule "PSRICalcSM"]
+	path = PSRICalcSM
+	url = https://github.com/cran/PSRICalcSM
 [submodule "SQUIRE"]
 	path = SQUIRE
 	url = https://github.com/rfeissiv/squire
